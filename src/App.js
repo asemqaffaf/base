@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Add from "./components/Add";
 import Table from "./components/Table";
-// import uuid from "uuid";
+
 import axios from "axios";
 
 export default class App extends Component {
